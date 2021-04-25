@@ -3,5 +3,3 @@ Este repositorio es una recopilación de la resolución por capítulo de todos l
 -Nathalie Rivas
 
 Grupo de Lectura en la Comunidad de Discord de @raydesite
-# eloquentJs
-# eloquentJs
