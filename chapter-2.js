@@ -2,12 +2,12 @@
 Looping a Triangle: Write a loop that makes seven calls to console.log to output the following triangle
 */
 
-let h="";
-for(let i=0;i<7;i++)
-{
-  h+="#";
-  console.log(h);
-}
+// let h="";
+// for(let i=0;i<7;i++)
+// {
+//   h+="#";
+//   console.log(h);
+// }
 
 //----------------------------------------------------
 
@@ -18,20 +18,23 @@ For numbers divisible by 3, print "Fizz" instead of the number, and for numbers 
 */
 
 
-for (let i=1; i <= 100 ; i++)
-{
-  console.log(i%3 == 0 && i%5 == 0 ? 'FizzBuzz' : (i% 5 == 0 ? 'Buzz' : (i%3 == 0  ? 'Fizz' : i)))
-}
+// for (let i=1; i <= 100 ; i++)
+// {
+//   console.log(i%3 == 0 && i%5 == 0 ? 'FizzBuzz' : (i% 5 == 0 ? 'Buzz' : (i%3 == 0  ? 'Fizz' : i)))
+// }
 
-for (let i=1; i<=100; i++)
-{
-  if(i%3 === 0 && i%5 === 0){
-    console.log("Fizzbuzz");
-  } else if (i%3 === 0){
-    console.log("Fizz");
-  } else if (i%5 === 0){
-    console.log("Buzz");
-  } else{
-    console.log(i);
-  }    
-}
+// for (let i=1; i<=100; i++)
+// {
+//   if(i%3 === 0 && i%5 === 0){
+//     console.log("Fizzbuzz");
+//   } else if (i%3 === 0){
+//     console.log("Fizz");
+//   } else if (i%5 === 0){
+//     console.log("Buzz");
+//   } else{
+//     console.log(i);
+//   }    
+// }
+
+
+/* Exercise 3 - Chessboard */
